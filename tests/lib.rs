@@ -3,3 +3,4 @@
 
 mod enum_repr;
 mod slices;
+mod multiple_dispatch;
